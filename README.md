@@ -32,3 +32,19 @@ Compliance and security. CloudWatch integrates with AWS Identity and Access Mana
 ## Datadog & New Relic:
 
 Datadog and New Relic provide unified infrastructure and application performance monitoring suites that include an extensive set of service integrations, pre-built dashboards and data analysis models. Along with competitors such as AppDynamics, both Datadog and New Relic are good options for organizations that want to add AWS infrastructure into a multi-platform monitoring and alerting system.
+
+
+## Datadog vs. New Relic pricing
+
+Just as their AWS monitoring features differ, Datadog and New Relic have different pricing models, as well. 
+For example, Datadog, at the time of publication, costs $0.03 per host per hour for AWS infrastructure monitoring, while New Relic costs $149 per month for 125,000 compute units (CUs). 
+
+According to New Relic, CU-based pricing calculates the monthly charge based on the size of the host -- compute power and memory -- running New Relic, and the number of hours it connects to New Relic during the month.
+
+For more details on Datadog and New Relic pricing, visit the AWS Marketplace.
+
+
+## Who prefer what?
+
+Development and DevOps teams might prefer New Relic, while IT ops teams might be more comfortable with Datadog.
+
