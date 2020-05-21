@@ -22,7 +22,7 @@
 
 During user registration, the customer provides AWS Credentials (Access Key/Secret Key or IAM role) to enable Cloudivize to connect to the customer AWS account.
 
-It uses these credentials, and pulls data from AWS, process and render to the Cloudivize canvas. Nothing from the customer’s assets or its information is stored on the Cloudivize side, all data fetching, processing, and rendering is done on live-mode and on the fly.
+It uses these credentials, and pulls data from AWS, process and render to the Cloudivize canvas. Nothing from the customer’s assets or its information is stored on the platform side, all data fetching, processing, and rendering is done on live-mode and on the fly.
 
 # What AWS Credentials do I need to provide?
 
