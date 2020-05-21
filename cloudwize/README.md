@@ -48,3 +48,5 @@ At this Technologies, we use the top security measures to protect user privacy a
 
 As an APN (Amazon Partner Network) Technology Partner, it has the acknowledgment of AWS for its value proposition to AWS customers and for the solution correctness.
 
+# Is it an AWS Select tier technology partner? 
+
